@@ -1,7 +1,7 @@
-# GALD
+# GlareLane: A Real-World Benchmark and Method for Lane Detection under Challenging Illumination
 
 ## Dataset
-Dataset will be released after paper acceptance.
+Please waiting update...
 
 ## Codes 
-Codes will be released after paper acceptance.
+Please waiting update...
